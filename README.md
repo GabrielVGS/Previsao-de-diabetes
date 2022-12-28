@@ -1,2 +1,3 @@
-# Previsao-de-diabetes
-Previsao de diabetes usando diferentes metódos 
+# Previsão de diabetes
+## Previsao de diabetes usando diferentes metódos 
+### KNN e Logistic Regression
